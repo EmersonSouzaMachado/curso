@@ -1,0 +1,9 @@
+git init - transforma a pasta em um repositorio
+
+git ls-files - mostra os arquivos que estão sendo controlados
+
+git status - mostra o estado atual do git
+
+git add - coloca um arquivo para o git monitorar
+
+git commit - grava as alterações no repositorio -m "obs: passar uma mensagem para dizer o que fez naquele commit"
